@@ -7,7 +7,7 @@
 - Jika dalam satu folder input terdapat format selain .HEIC atau .MOV, maka akan diabaikan oleh program
 
 ## Cara menjalankan
-Jalankan \n
+Jalankan
 ```
 python main.py
 ```
